@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/singhaman131994" target="blank"><img src="https://img.shields.io/twitter/follow/singhaman131994?logo=twitter&style=for-the-badge" alt="singhaman131994" /></a> </p>
 
-- 🔭 I’m currently working on **100-Projects of JS**
+- 🔭 I’m currently working on **100-Projects of HTML-CSS-JS**
 
 - 🌱 I’m currently learning **The Web Developer Bootcamp 2023 - Colt Steele**
 
