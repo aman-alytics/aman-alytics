@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://twitter.com/singhaman131994" target="blank"><img src="https://img.shields.io/twitter/follow/singhaman131994?logo=twitter&style=for-the-badge" alt="singhaman131994" /></a> </p>
 
-- 🔭 I’m currently working on **100-Projects of HTML-CSS-JS**
+- 🔭 I’m currently working on **100-Projects of HTML-CSS-JS** & **React Projects**
   
 - 🌱 I’m currently learning various new technologies.
 
