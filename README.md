@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning various new technologies.
 
-- 🌱 I’m currently attending **The Web Developer Bootcamp 2023 - Colt Steele**
+- 🌱 I’m attending **The Web Developer Bootcamp 2023 - Colt Steele**
 
 - 📫 How to reach me **singhaman131994@gmail.com**
 
