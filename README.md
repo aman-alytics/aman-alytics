@@ -4,15 +4,11 @@
 
 <p align="center"> <a href="https://twitter.com/singhaman131994" target="blank"><img src="https://img.shields.io/twitter/follow/singhaman131994?logo=twitter&style=for-the-badge" alt="singhaman131994" /></a> </p>
 
-- 🔭 I’m currently working on **100-Projects of HTML-CSS-JS** & **React Projects**
-  
-- 🌱 I’m currently learning various new technologies.
-
-- 🌱 I’m attending **The Web Developer Bootcamp 2023 - Colt Steele**
-
-- 📫 How to reach me **singhaman131994@gmail.com**
-
-- 💬 Ask me about anything, I am happy to help;
+- 🔭 Currently working on 100 projects involving HTML, CSS, JS, and React Projects 
+- 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele. 
+- 📫 Contact: singhaman131994@gmail.com
+- 💬 Willing to provide assistance on any topic.
+- 💬 Open to questions and discussions.
 
 <p align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/vrindagupta6828/master/assest/coder.gif" alt="codergif" /> </p>
 
