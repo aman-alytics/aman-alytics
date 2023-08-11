@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
-<h1 align="center">Hi 👋, I'm <Aman Singh/> </h1>
+<h1 align="center">Hi 👋, I'm < Aman Singh /> </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> <a href="https://twitter.com/singhaman131994" target="blank"><img src="https://img.shields.io/twitter/follow/singhaman131994?logo=twitter&style=for-the-badge" alt="singhaman131994" /></a> </p>
