@@ -14,7 +14,8 @@
 <br><br>
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="800">
-<br>
+<br><br>
+---
 ## Connect with Me!
 <div align="left">
    <a href="https://www.linkedin.com/in/aman-singh-855a20105/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="singhaman131994" width="100"/></a>
