@@ -12,6 +12,8 @@
 <br>
 <p align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/vrindagupta6828/master/assest/coder.gif" alt="codergif" /> </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
 
 
 <h3 align="left">Connect with me:</h3>
