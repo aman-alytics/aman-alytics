@@ -29,14 +29,12 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
 </div>
 <br><br>
+
 ## Connect with Me!
-<p align="left">
+<div align="center">
    <a href="https://www.linkedin.com/in/aman-singh-855a20105/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="singhaman131994" width="100"/></a>
    <a href="https://twitter.com/singhaman131994" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="singhaman131994" width="100"/></a>
-   
-   <a href="" target="blank"><img align="center" src="" alt="singhaman131994" height="30" width="35" /></a>
-   <a href="" target="blank"><img align="center" src="" alt="singhaman131994" height="30" width="35" /></a>
-</p>
+</div>
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1394&layout=compact" alt=aman1394"/></p>
