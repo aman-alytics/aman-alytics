@@ -39,7 +39,7 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
 </div>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1394&layout=compact" alt=aman1394"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1394&layout=compact" alt=aman1394"/></p>
 
 ---
 
