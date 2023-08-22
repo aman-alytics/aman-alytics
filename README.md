@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
+
 - 🔭 Currently working on 100 projects involving HTML, CSS, JS, and React Projects 
 
 - 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele.
