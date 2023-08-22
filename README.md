@@ -37,5 +37,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman1394&show_icons=true&locale=en&layout=compact" alt="aman1394"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=aman1394&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt=aman1394"/></p>p
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt=aman1394"/></p>
+
 
