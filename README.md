@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="center">A passionate developer from India</h3>
-<br><br>
+<br>
 - 🔭 Currently working on 100 projects involving HTML, CSS, JS, and React Projects 
 - 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele. 
 - 📫 Contact: singhaman131994@gmail.com
