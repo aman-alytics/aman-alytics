@@ -50,9 +50,9 @@
 ## Animated Social Media Icons
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://www.linkedin.com/in/aman-singh-855a20105/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="singhaman131994" height="30" width="35" /></a>
-   <a href="https://twitter.com/singhaman131994" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="singhaman131994" height="30" width="35" /></a>
-   <a href="https://www.instagram.com/thehybrid_tech/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="singhaman131994" height="30" width="35" /></a>
+   <a href="https://www.linkedin.com/in/aman-singh-855a20105/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="singhaman131994" width="100"/></a>
+   <a href="https://twitter.com/singhaman131994" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="singhaman131994" width="100"/></a>
+   
    <a href="" target="blank"><img align="center" src="" alt="singhaman131994" height="30" width="35" /></a>
    <a href="" target="blank"><img align="center" src="" alt="singhaman131994" height="30" width="35" /></a>
 </p>
