@@ -51,7 +51,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-| `orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
+![](https://komarev.com/ghpvc/?username=aman1310&style=flat-square)
 
 
 
