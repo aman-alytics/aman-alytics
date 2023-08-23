@@ -2,15 +2,17 @@
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="left"><span>A passionate Developer from India</span></h3>
 
-- 🔭 Currently working on 100 projects involving HTML, CSS, JS, and React Projects 
+- 🛠 Currently working on 100 projects involving HTML, CSS, JS, and React Projects 
 
 - 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele.
-  
-- 📫 Mail to: singhaman131994@gmail.com
   
 - 💬 Willing to provide assistance on any topic.
   
 - 💬 Open to questions and discussions.
+  
+- 😄  Pronouns: He / Him
+
+- 📫 Mail to: singhaman131994@gmail.com 
 <br><br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="800">
