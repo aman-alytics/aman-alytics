@@ -6,7 +6,7 @@
 
 - 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele.
   
-- 📫 Contact: singhaman131994@gmail.com
+- 📫 Mailto: singhaman131994@gmail.com
   
 - 💬 Willing to provide assistance on any topic.
   
