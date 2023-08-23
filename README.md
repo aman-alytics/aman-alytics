@@ -8,7 +8,7 @@
   
 - 💬 Willing to provide assistance on any topic.
   
-- 💬 Open to questions and discussions.
+- 🙋🏾 Open to questions and discussions.
   
 - 😄  Pronouns: He / Him
 
