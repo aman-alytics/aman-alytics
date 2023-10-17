@@ -5,6 +5,8 @@
 - 🛠 Currently working on React Projects 
 
 - 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele.
+
+- 📑 Learning Advance PHP and SQL
   
 - 💬 Willing to provide assistance on any topic.
   
