@@ -6,7 +6,7 @@
 
 - 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele.
 
-- 📑 Learning Advance PHP and SQL
+- 📑 Learning Advance PHP and SQL, React Native
   
 - 💬 Willing to provide assistance on any topic.
   
