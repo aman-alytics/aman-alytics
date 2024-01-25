@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="left"><span>A passionate Developer from India</span></h3>
 
-- 🛠 Currently working on React and PHP Projects 
+- 🛠 Passionate Developer from India
 
-- 🌱 Attending The Web Developer Bootcamp 2023 with Colt Steele.
+- 🌐 Currently immersed in Data Analytics and Cloud Services and Data Projects.
 
-- 📑 Learning Advance PHP and SQL, React Native
-  
-- 💬 Willing to provide assistance on any topic.
-  
-- 🙋🏾 Open to questions and discussions.
-  
-- 😄  Pronouns: He / Him
+- 🌱 Actively expanding skills in Web Development, Data Analytics, and Cloud Services.
+
+- 💬 Willing to provide assistance on any topic, with a focus on Data Analytics, Cloud Services, Advanced PHP, and SQL.
+
+- 🙋🏾 Open to questions and discussions related to web development, data analytics, cloud services, or anything else you're curious about.
+
+- 😄 Pronouns: He / Him
 
 - 📫 Mail to: singhaman131994@gmail.com 
 <br><br>
