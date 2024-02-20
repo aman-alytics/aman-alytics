@@ -4,7 +4,7 @@
 
 - 🛠 Passionate Developer from India
 
-- 🌐 Currently immersed in Data Analytics and Cloud Services and Data Projects.
+- 🌐 Currently immersed in Cloud Services, Data Analytics and Projects.
 
 - 🌱 Actively expanding skills in Web Development, Data Analytics, and Cloud Services.
 
