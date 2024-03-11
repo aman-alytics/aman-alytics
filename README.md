@@ -8,7 +8,7 @@
 
 - 🌱 Actively expanding skills in Web Development, Data Analytics, and Cloud Services.
 
-- 💬 Willing to provide assistance on any topic, with a focus on Data Analytics, Cloud Services, Advanced PHP, and SQL.
+- 💬 Willing to provide assistance on any topic, with a focus on Data Analytics, Cloud Services, Microsoft Excel & PowerBI, Python, and SQL.
 
 - 🙋🏾 Open to questions and discussions related to web development, data analytics, cloud services, or anything else you're curious about.
 
