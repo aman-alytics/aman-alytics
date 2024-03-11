@@ -24,11 +24,10 @@
  
 ## Connect with Me!
 <div align="left">
-  <a href="https://github.com/aman1394" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="aman1394" width="100"/></a>
+  <a href="https://github.com/aman1394" target="blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl2MXgzdnkzc2lua3Y2NHgyM3FxZTcyNnlucXp2eWplNnZtM3VzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="aman1394" width="100"/></a>
    <a href="https://www.linkedin.com/in/aman-singh-855a20105/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="singhaman131994" width="100"/></a>
    <a href="https://twitter.com/singhaman131994" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="singhaman131994" width="100"/></a>
 </div>
-
  ---
 
 
