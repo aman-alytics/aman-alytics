@@ -47,6 +47,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
   <img src="https://github.com/aman1394/aman1394/assets/121683356/bcd3a68c-0df2-4af5-b7e6-5b9314445eb8" width="100">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVsMWduNnJrMjk2cHdnOXAwc3I2cmhqYWEzdTVhYnA0YWl1MzlwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZsZ3N1anR2anBsMm11MmJrbW9zbG40bDVvOG1kNW1pM3J5ajhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" width="100">
+ 
 </div>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1394&layout=compact" alt=aman1394"/></div>
