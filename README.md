@@ -37,7 +37,7 @@
 <div align="center">
   <img src="https://github.com/aman1394/aman1394/assets/121683356/bcd3a68c-0df2-4af5-b7e6-5b9314445eb8" width="100">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVsMWduNnJrMjk2cHdnOXAwc3I2cmhqYWEzdTVhYnA0YWl1MzlwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZsZ3N1anR2anBsMm11MmJrbW9zbG40bDVvOG1kNW1pM3J5ajhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" width="100">
+ <img src="https://assets.leetcode.com/static_assets/others/SQL_2.gif" width="100">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
