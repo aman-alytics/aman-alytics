@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="left"><span>A passionate Developer from India</span></h3>
 
-- 🛠 Passionate Developer from India
+- 🛠 Seeking Data Analyst Roles
 
 - 🌐 Currently immersed in Cloud Services, Data Analytics and Projects.
 
