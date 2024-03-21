@@ -4,7 +4,7 @@
 
 - 🛠 Seeking Data Analyst Roles
 
-- 🌐 Currently immersed in Cloud Services, Data Analytics and Projects.
+- 🌐 Currently immersed in Data Analytics, Cloud Services and Projects.
 
 - 🌱 Actively expanding skills in Web Development, Data Analytics, and Cloud Services.
 
