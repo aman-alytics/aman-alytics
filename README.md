@@ -4,7 +4,7 @@
 
 - 🛠 Seeking Data Analyst Roles
   
-- 📜 Microsoft Certified Data Analyst and completed Microsoft Power BI Data Analyst Professional Certificate from Coursera.
+- 📜 Microsoft Certified Data Analyst and also completed Microsoft Power BI Data Analyst Professional Certificate from Coursera.
 
 - 🌐 Currently immersed in Data Analytics, Cloud Services and Projects.
 
