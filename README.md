@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="left"><span>A passionate Developer from India</span></h3>
 
-- 🛠 Seeking Data Analyst Roles and Preparing for Microsoft PL 300
+- 🛠 Seeking Data Analyst Roles
+  
+- 📜 Microsoft Certified Data Analyst and completed Microsoft Data Analyst certification from Coursera.
 
 - 🌐 Currently immersed in Data Analytics, Cloud Services and Projects.
 
