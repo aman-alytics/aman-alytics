@@ -60,7 +60,7 @@
   
 </div>
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1394&layout=compact" alt=aman-alytics"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-alytics&layout=compact" alt=aman-alytics"/></div>
 
 ---
 
