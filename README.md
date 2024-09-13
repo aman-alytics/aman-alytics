@@ -4,7 +4,7 @@
 
 - 🛠 Seeking US Healthcare Data Analyst Roles
 
-- Experienced Data Analyst,Reporting with 3 years specilizing in US Healthcare, and a total of 7 years of overall experience in US Medical Billing.
+- Experienced Data Analyst, Reporting with 3 years specilizing in US Healthcare, and a total of 7 years of overall experience in US Medical Billing.
   
 - 📜 Microsoft Certified Data Analyst and also completed Microsoft Power BI Data Analyst Professional Certificate from Coursera.
 
