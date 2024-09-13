@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="left"><span>A passionate Developer from India</span></h3>
 
-- 🛠 Seeking Data Analyst Roles
+- 🛠 Seeking US Healthcare Data Analyst Roles
+
+- 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝗱 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁, **Reporting** 𝘄𝗶𝘁𝗵 𝟯 𝘆𝗲𝗮𝗿𝘀 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗶𝗻𝗴 𝗶𝗻 𝗨𝗦 𝗵𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲, 𝗮𝗻𝗱 𝗮 𝘁𝗼𝘁𝗮𝗹 𝗼𝗳 𝟳 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗼𝘃𝗲𝗿𝗮𝗹𝗹 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗨𝗦 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗯𝗶𝗹𝗹𝗶𝗻𝗴.
   
 - 📜 Microsoft Certified Data Analyst and also completed Microsoft Power BI Data Analyst Professional Certificate from Coursera.
 
