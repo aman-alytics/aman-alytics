@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm <span>Aman Singh</span> </h1>
 <h3 align="left"><span>A passionate Developer from India</span></h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 - 🛠 Seeking US Healthcare Data Analyst Roles
 
 - Experienced Data Analyst, Reporting with 3 years specilizing in US Healthcare, and a total of 7 years of overall experience in US Medical Billing.
