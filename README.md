@@ -12,7 +12,7 @@
 
 - 🌐 Currently immersed in Data Analytics, Cloud Services and Projects.
 
-- 🌱 Actively expanding skills in Web Development, Data Analytics, and Cloud Services.
+- 🌱 Actively expanding skills in Data Analytics, Web Development, and Cloud Services.
 
 - 💬 Willing to provide assistance on any topic, with a focus on Data Analytics, Cloud Services, Microsoft Excel & PowerBI, Python, and SQL.
 
